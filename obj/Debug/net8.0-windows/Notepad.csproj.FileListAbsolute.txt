@@ -1,0 +1,16 @@
+C:\Users\jachym\source\repos\Notepad\bin\Debug\net8.0-windows\Notepad.exe
+C:\Users\jachym\source\repos\Notepad\bin\Debug\net8.0-windows\Notepad.deps.json
+C:\Users\jachym\source\repos\Notepad\bin\Debug\net8.0-windows\Notepad.runtimeconfig.json
+C:\Users\jachym\source\repos\Notepad\bin\Debug\net8.0-windows\Notepad.dll
+C:\Users\jachym\source\repos\Notepad\bin\Debug\net8.0-windows\Notepad.pdb
+C:\Users\jachym\source\repos\Notepad\obj\Debug\net8.0-windows\Notepad.Form1.resources
+C:\Users\jachym\source\repos\Notepad\obj\Debug\net8.0-windows\Notepad.csproj.GenerateResource.cache
+C:\Users\jachym\source\repos\Notepad\obj\Debug\net8.0-windows\Notepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jachym\source\repos\Notepad\obj\Debug\net8.0-windows\Notepad.AssemblyInfoInputs.cache
+C:\Users\jachym\source\repos\Notepad\obj\Debug\net8.0-windows\Notepad.AssemblyInfo.cs
+C:\Users\jachym\source\repos\Notepad\obj\Debug\net8.0-windows\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\jachym\source\repos\Notepad\obj\Debug\net8.0-windows\Notepad.dll
+C:\Users\jachym\source\repos\Notepad\obj\Debug\net8.0-windows\refint\Notepad.dll
+C:\Users\jachym\source\repos\Notepad\obj\Debug\net8.0-windows\Notepad.pdb
+C:\Users\jachym\source\repos\Notepad\obj\Debug\net8.0-windows\Notepad.genruntimeconfig.cache
+C:\Users\jachym\source\repos\Notepad\obj\Debug\net8.0-windows\ref\Notepad.dll
